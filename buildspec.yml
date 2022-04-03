@@ -1,0 +1,11 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - ./gradlew bootJar
+
+artifacts:
+  discard-paths: yes
+  files:
+    - 'build/libs/*.jar'
