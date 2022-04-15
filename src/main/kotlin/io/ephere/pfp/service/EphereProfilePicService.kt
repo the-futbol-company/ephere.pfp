@@ -26,7 +26,7 @@ class EphereProfilePicService {
       )
       2 -> ERC721Metadata(
         name = "Tico",
-        image = "https://ipfs.ephere.io/ipfs/QmPHhhV8CmJR1WfwdCpT81rddTWLVhi49U3VQHg9as5zTA",
+        image = "https://ipfs.ephere.io/ipfs/QmUs41eGU9P3BWndFZKMF4hLQYVZnRHhsnVNFTJvcHFjv8",
         externalUrl = "https://ephere.football",
         description = "CGO at Ephere Football",
         backgroundColor = "#000000",
